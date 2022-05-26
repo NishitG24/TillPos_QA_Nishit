@@ -1,0 +1,15 @@
+Test Scenario : test case is used to validates the user should be able to edit the details of an existing computer
+
+Automation TestCase : NA
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Search the name of any existng computer
+3. click on computer name
+4. user should navigate to computer details page
+5. edit any value on details page and click save this computer button
+
+Expected result:
+computer details should be updated and should be visible in list when searched
+

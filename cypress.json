@@ -1,0 +1,13 @@
+{
+    "env":{
+        "app_url":"https://computer-database.gatling.io/computers",
+        "app_homePage_title":"Computer database",
+        "fullComputerName":"APEXC",
+        "NoComputerName":"NoName",
+        "noResultDisplayCount":"Displaying 1 to 0 of 0",
+        "PartialComputerName":"APE",
+        "computerTotalCount":"574",
+        "newComputerName":"testComputer",
+        "companyName":"RCA"
+    }
+}

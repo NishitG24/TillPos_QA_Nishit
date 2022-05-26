@@ -1,0 +1,14 @@
+Test Scenario : test case is used to validates that when user provide invalid date format
+
+Automation TestCase : addNewComputer.spec
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Click on  Add New Computer button
+3. fill up all details and date should not be in format yyyy-mm-dd
+4. click on create new computer button
+
+
+Expected result:
+An error message should display for the invalid date format

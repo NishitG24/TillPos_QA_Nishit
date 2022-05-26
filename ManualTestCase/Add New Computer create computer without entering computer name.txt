@@ -1,0 +1,14 @@
+Test Scenario : test case is used to validates that when user tries to create computer without entering the computer name
+
+Automation TestCase : addNewComputer.spec
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Click on  Add New Computer button
+3. provide all details except computer name
+4. click on create new computer button
+
+
+Expected result:
+An error message should display to ask to provide computer name

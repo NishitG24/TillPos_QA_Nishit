@@ -1,0 +1,15 @@
+Test Scenario : test case is used to validates that when user adds new computer by filling up all valid details
+
+Automation TestCase : addNewComputer.spec
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Click on  Add New Computer button
+3. fill up all details and date should be in format yyyy-mm-dd
+4. click on create new computer button
+5. new computer should be created 
+6. search or filter the table wtih newly created computer
+
+Expected result:
+all details should be display in table for newly created computer

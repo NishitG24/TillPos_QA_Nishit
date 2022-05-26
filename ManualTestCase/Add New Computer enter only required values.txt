@@ -1,0 +1,15 @@
+Test Scenario : test case is used to validates that when user enter only required values while creating new computer
+
+Automation TestCase : addNewComputer.spec
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Click on  Add New Computer button
+3. provide only required values on page.
+4. click on create new computer button
+5. new computer should be created 
+6. search or filter the table wtih newly created computer
+
+Expected result:
+all details should be display in table for newly created computer

@@ -1,0 +1,19 @@
+Test Scenario : test case is used to validates that When user sorts list by Clicking on "Computer name" , "Introduced", "Discontinued" and "Company"
+It Should be sorted in Ascending/Descending order
+
+Automation TestCase : NA
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Click on "Computer name" , "Introduced", "Discontinued" and "Company" 
+
+
+Expected result:
+List should be sorted in Descending order if it's Ascending
+
+3. again Click on "Computer name" , "Introduced", "Discontinued" and "Company"
+
+Expected result :
+List should be sorted in Ascending order if it's Descending.
+

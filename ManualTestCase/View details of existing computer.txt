@@ -1,0 +1,14 @@
+Test Scenario : test case is used to validates the details of an existing computer
+
+Automation TestCase : validateEditDeleteExistingComputer.spec.js
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Search the name of any existng computer
+3. click on computer name
+4. user should navigate to computer details page
+
+Expected result:
+all the required details should be visible to details page
+

@@ -1,0 +1,22 @@
+{
+  "name": "till_pos_qa_assingment",
+  "version": "1.0.0",
+  "description": "This an automation project automate the list of computer database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NishitG24/TillPos_QA_Nishit.git"
+  },
+  "author": "Nishit Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NishitG24/TillPos_QA_Nishit/issues"
+  },
+  "homepage": "https://github.com/NishitG24/TillPos_QA_Nishit#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}

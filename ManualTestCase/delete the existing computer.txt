@@ -1,0 +1,16 @@
+Test Scenario : test case is used to validates that user should be able to delete the existing computer
+
+Automation TestCase : NA
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. Search the name of any existng computer
+3. click on computer name
+4. user should navigate to computer details page
+5. click on delete button
+6. search the deleted computer name
+
+Expected result:
+deleted computer should not be display in list
+

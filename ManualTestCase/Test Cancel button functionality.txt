@@ -1,0 +1,13 @@
+Test Scenario : test case is used to validates the functionality of cancel button
+
+Automation TestCase : cancelButttonFunctionality.spec.js
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. click on computer name from the list
+3. click on cancel button
+
+Expected result:
+cancel button should clickable and enabled
+

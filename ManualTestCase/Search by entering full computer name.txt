@@ -1,0 +1,11 @@
+Test Scenario : test case is used to validates that when exiting complete computer name searched than result should be displayed
+
+Automation TestCase : filterComputername.spec.js
+
+Test Steps:
+
+1. Launch the application url(https://computer-database.gatling.io/computers) in web browser
+2. enter complete computer name in search box and click on button Filter by name
+
+Expected result:
+computer name should be displayed in table
